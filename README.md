@@ -2,10 +2,10 @@
 一个视频弹幕分享的好地方 
 A good place to share danmu
 
+[English](./README_EN.md)
 # 弹幕存储格式
 ```JS
 {
-    "vn": "Naruto[01]",     // 影视作品名  (必选)
     "txt": "Sasuke",        // 弹幕文本 (必选)
     "t": "10086",           // 弹幕发送在视频的所播放的时间 单位毫秒(ms) (必选)
     "fs": "16",             // 文本字体大小 单位px (必选)

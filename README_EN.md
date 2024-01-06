@@ -1,10 +1,11 @@
 # BiuBiuDanmu
 A good place to share danmu
 
+[中文](./README.md)
+
 # The storage struct
 ```JS
 {
-    "vn": "Naruto[01]",     // video name  (required)
     "txt": "Sasuke",        // danmu text (required)
     "t": "10086",           // how many ms after the video start to show the danmu. unit ms (required)
     "fs": "16",             // the font size of  danmu.  unit px (required)
@@ -15,12 +16,6 @@ A good place to share danmu
 }
 ```
 ## field explain (* required)
-### *vn (videoName) video name
-> name rule <videoName>[SeasonEpisode]  
-> eg    
->   `Naruto[01]` : Naruto Episode 1.  
->   `Oppenheimer`: Oppenheimer   
->   `Yes, Prime Minister[S01E02]`: Yes, Prime Minister Season 1 Episode 2
 
 ### *txt (text) danmu text
 > must UTF-8 
