@@ -1,0 +1,20 @@
+{
+  "name": "biubiudanmu",
+  "version": "1.0.0",
+  "description": "一个分享弹幕的好地方. A good place to share danmu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "danmu",
+    "blockchain"
+  ],
+  "author": "孤泉冷月",
+  "license": "ISC",
+  "dependencies": {
+    "crossbell": "^1.11.3"
+  }
+}
