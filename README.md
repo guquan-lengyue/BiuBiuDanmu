@@ -16,12 +16,6 @@ A good place to share danmu
 }
 ```
 ## 字段解释 (*标识必选)
-### *vn (videoName) 影视作品名
-> 命名规则 <影视作品名>[季数与集数（期数与话数）]  
-> 例如    
->   `Naruto[01]` : 火影忍者第一集.  
->   `Oppenheimer`: 奥本海默   
->   `Yes, Prime Minister[S01E02]`: 是! 首相 第一季第二集
 
 ### *txt (text) 弹幕文本
 > 应该是UTF-8编码  
